@@ -9,8 +9,7 @@ public class Jugador : MonoBehaviour
 
     Transform transform;
 
-    Vector3 mousePos2D;
-    Vector3 mousePos3D;
+    Vector3 mousePos2D;Vector3 mousePos3D;
 
     // Start is called before the first frame update
     void Start()
