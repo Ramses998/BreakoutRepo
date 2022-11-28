@@ -182,6 +182,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bola
       objectReference: {fileID: 0}
+    - target: {fileID: 7638537865710483237, guid: cece07630417d413684988eaf775fb03, type: 3}
+      propertyPath: velocidadBola
+      value: 25
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cece07630417d413684988eaf775fb03, type: 3}
 --- !u!1 &705507993
@@ -441,7 +445,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 905794967830996158, guid: c6ba1628c68b34578b882281dce9dfd2, type: 3}
       propertyPath: VelocidadPaddle
-      value: 20
+      value: 35
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c6ba1628c68b34578b882281dce9dfd2, type: 3}
